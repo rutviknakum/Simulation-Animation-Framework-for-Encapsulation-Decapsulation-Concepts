@@ -25,14 +25,14 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:  
    ```bash
-   [git clone https://github.com/YourRepoLink/simulation-framework.git](https://github.com/rutviknakum/Simulation-Animation-Framework-for-Encapsulation-Decapsulation-Concepts.git)
+   https://github.com/rutviknakum/Simulation-Animation-Framework-for-Encapsulation-Decapsulation-Concepts.git
    ```
 
 2. **Navigate to the Project Directory**  
    After cloning the repository, navigate to the project folder using the following command:
    
    ```bash
-   cd simulation-framework
+   cd Simulation-Animation-Framework-for-Encapsulation-Decapsulation-Concepts
    ```
 
 3. **Install Dependencies**  
